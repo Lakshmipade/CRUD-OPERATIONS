@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "2c00",
+      "name": "user1",
+      "email": "user1@outlook.com",
+      "phone": "8755555",
+      "website": "user.in"
+    },
+    {
+      "id": "0e0b",
+      "name": "food",
+      "email": "demotest925@gmail.com",
+      "phone": "5555555555555",
+      "website": "www.sobo.com"
+    },
+    {
+      "id": "1ac9",
+      "name": "user8",
+      "email": "lakshmipade4@gmail.com",
+      "phone": "888888",
+      "website": "www.sobo.com"
+    }
+  ]
+}
